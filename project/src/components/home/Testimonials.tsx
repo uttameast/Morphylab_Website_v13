@@ -8,19 +8,19 @@ export default function Testimonials() {
       name: 'Sarah Johnson',
       role: 'CTO, HealthTech Solutions',
       content: 'MorphyLab has transformed how we manage our patient records. Their compliance-focused approach gives us peace of mind.',
-      image: 'https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&q=80&w=150&h=150'
+      
     },
     {
       name: 'Michael Chen',
       role: 'Director of IT, Global Finance Corp',
       content: 'The level of security and reliability we get with MorphyLab is unmatched. Essential for our financial data.',
-      image: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&q=80&w=150&h=150'
+      
     },
     {
       name: 'Emily Rodriguez',
       role: 'Legal Operations Manager',
       content: 'Their archival solutions have streamlined our document retention processes while ensuring regulatory compliance.',
-      image: 'https://images.unsplash.com/photo-1438761681033-6461ffad8d80?auto=format&fit=crop&q=80&w=150&h=150'
+      
     }
   ];
 
